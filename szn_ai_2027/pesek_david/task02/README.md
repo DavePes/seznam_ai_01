@@ -10,6 +10,9 @@ vedení konverzace a jednotlivé odpovědi preferencím uživatele. Navrhněte:
 # Jaká data potřebuji
 ## Explicitní data (uživatel je řekne nebo nastaví sám)
 
-nastavení: jazyk, tón, délka odpovědí, úroveň odbornosti
-přímé pokyny: „zapamatuj si…“, „odpovídej stručněji“
-zpětná vazba: palec nahoru/dolů, výběr mezi dvěma odpověďmi (pairwise)
+nastavení: např hlas chatbota, styl odpovědi, Custom instruction
+implicitní 
+palec nahoru/dolů na konkrétní odpověď chatbota, výběr mezi návrhy dvou odpovědí
+ 
+Kontext:
+např IP adresa, čas poslání zprávy, jazyk
